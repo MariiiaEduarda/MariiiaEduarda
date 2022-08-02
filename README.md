@@ -1,7 +1,3 @@
-𝓼𝓸𝓫𝓻𝓮 𝓶𝓲𝓶
-- 
--ᴏɪɪɪ, ᴍᴇᴜ ɴᴏᴍᴇ ᴇ ᴍᴀʀɪᴀ ᴇᴅᴜᴀʀᴅᴀ
-
--ᴍᴇᴜ ᴇᴍᴀɪʟ ᴘᴀʀᴀ ᴄᴏɴᴛᴀᴛᴏ: [email](maria.giandelli.agostinho@escola.pr.gov.br)
-
--ᴇsᴛᴏᴜ sᴇᴍᴘʀᴇ ᴛᴇɴᴛᴀɴᴅᴏ ᴀᴘʀᴇɴᴅᴇʀ ᴄᴏɪsᴀs ɴᴏᴠᴀs
+## Olá, me chamo Maria Eduarda Giandelli 
+### Bem vindo ao meu perfil GitHub 👋
+<a href="https://instagram.com/mariaeduarda_g_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
